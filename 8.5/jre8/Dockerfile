@@ -16,4 +16,5 @@ RUN curl -fSL "$TOMCAT_TGZ_URL" -o tomcat.tar.gz \
 	&& rm tomcat.tar.gz*
 
 EXPOSE 8080
+EXPOSE 8009
 CMD ["catalina.sh", "run"]
