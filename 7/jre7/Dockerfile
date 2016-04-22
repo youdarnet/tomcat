@@ -1,4 +1,4 @@
-FROM java:7-jre
+FROM cogniteev/oracle-java:java8
 
 ENV CATALINA_HOME /usr/local/tomcat
 ENV PATH $CATALINA_HOME/bin:$PATH
