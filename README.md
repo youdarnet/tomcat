@@ -8,7 +8,9 @@ See a change merged here that doesn't show up on the Docker Hub yet? Check [the 
 
 ## Updates
 
-#### 2016-04-22 16:41:02, changed to oracle JDK based on `cogniteev/oracle-java:java8`
+#### 2016-04-22 16:41:02
+
+changed to oracle JDK based on `cogniteev/oracle-java:java8`
 
 [![Travis CI](https://img.shields.io/travis/docker-library/tomcat/master.svg)](https://travis-ci.org/docker-library/tomcat/branches)
 
